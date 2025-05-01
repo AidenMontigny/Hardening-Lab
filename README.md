@@ -27,19 +27,19 @@ The Hardening Lab project focuses on securing a Kali Linux VM and a Windows envi
 <h3> Part 1 </h3>
 
 <p align="left">
-The command apt update && apt full-upgrade -y was executed on the Kali VM to automatically <br/> update and upgrade all installed applications to their latest versions. <br/>This ensures that the system is up to date with the most recent patches and security improvements. <br/><br/>
+The command apt update && apt full-upgrade -y was executed on the Kali VM to automatically <br/> update and upgrade all installed applications to their latest versions. This ensures that the <br/> system is up to date with the most recent patches and security improvements. <br/><br/>
   <img src="Screenshot 2025-04-30 164137.png" height="80%" width="80%" alt="Step 1"/>
   <br/>
 </p>
 
 <p align="left">
-The successful execution of the command is confirmed, indicating that all updates and upgrades have been applied successfully. <br/><br/>
+The successful execution of the command is confirmed, indicating that all updates and upgrades <br/> have been applied successfully. <br/><br/>
   <img src="Screenshot 2025-04-30 164151.png" height="80%" width="80%" alt="Step 2"/>
   <br/>
 </p>
 
 <p align="left">
-The Lynis scan on the Kali VM revealed no vulnerabilities, indicating that the system is secure and properly configured. <br/><br/>
+The Lynis scan on the Kali VM revealed no vulnerabilities, indicating that the system is secure<br/>  and properly configured. <br/><br/>
   <img src="Screenshot 2025-04-30 164158.png" height="80%" width="80%" alt="Step 3"/>
   <br/>
 </p>
@@ -47,49 +47,49 @@ The Lynis scan on the Kali VM revealed no vulnerabilities, indicating that the s
 <h3> Part 2 </h3>
 
 <p align="left">
-The 'Recovery Console: Automatic Administrative Logon' prompt has been disabled to enhance system security and prevent unauthorized access during the recovery process. <br/><br/>
+The 'Recovery Console: Automatic Administrative Logon' prompt has been disabled to enhance system <br/> security and prevent unauthorized access during the recovery process. <br/><br/>
   <img src="Screenshot 2025-04-30 164203.png" height="80%" width="80%" alt="Step 4"/>
   <br/>
 </p>
 
 <p align="left">
-The ‘Roles and Features’ Wizard shows the selection of ‘Bitlocker Drive Encryption’ for installation, ensuring the system's drive is encrypted for enhanced data protection. <br/><br/>
+The ‘Roles and Features’ Wizard shows the selection of ‘Bitlocker Drive Encryption’ for installation, <br/> ensuring the system's drive is encrypted for enhanced data protection. <br/><br/>
   <img src="Screenshot 2025-04-30 164208.png" height="80%" width="80%" alt="Step 5"/>
   <br/>
 </p>
 
 <p align="left">
-Bitlocker has been successfully installed, and the option to enable it for full disk encryption is now available, providing an added layer of security for the system’s data. <br/><br/>
+Bitlocker has been successfully installed, and the option to enable it for full disk encryption is now <br/> available, providing an added layer of security for the system’s data. <br/><br/>
   <img src="Screenshot 2025-04-30 164213.png" height="80%" width="80%" alt="Step 6"/>
   <br/>
 </p>
 
 <p align="left">
-The password creation process for Bitlocker is displayed, ensuring secure access to the encrypted drive and enhancing overall data protection. <br/><br/>
+The password creation process for Bitlocker is displayed, ensuring secure access to the encrypted <br/> drive and enhancing overall data protection. <br/><br/>
   <img src="Screenshot 2025-04-30 164219.png" height="80%" width="80%" alt="Step 7"/>
   <br/>
 </p>
 
 <p align="left">
-The process of encrypting the VM's disk is shown, securing all data on the disk through Bitlocker encryption to protect sensitive information. <br/><br/>
+The process of encrypting the VM's disk is shown, securing all data on the disk through Bitlocker <br/> encryption to protect sensitive information. <br/><br/>
   <img src="Screenshot 2025-04-30 164224.png" height="80%" width="80%" alt="Step 8"/>
   <br/>
 </p>
 
 <p align="left">
-The C drive is shown to be successfully encrypted by Bitlocker, ensuring that all data on the drive is protected from unauthorized access. <br/><br/>
+The C drive is shown to be successfully encrypted by Bitlocker, ensuring that all data on the drive <br/> is protected from unauthorized access. <br/><br/>
   <img src="Screenshot 2025-04-30 164229.png" height="80%" width="80%" alt="Step 9"/>
   <br/>
 </p>
 
 <p align="left">
-Windows Firewall is enabled for all three profiles, ensuring comprehensive network protection by controlling inbound and outbound traffic across different network environments. <br/><br/>
+Windows Firewall is enabled for all three profiles, ensuring comprehensive network protection by <br/> controlling inbound and outbound traffic across different network environments. <br/><br/>
   <img src="Screenshot 2025-04-30 164234.png" height="80%" width="80%" alt="Step 10"/>
   <br/>
 </p>
 
 <p align="left">
-All incoming traffic is blocked, enhancing security by preventing unauthorized access to the system from external sources. <br/><br/>
+All incoming traffic is blocked, enhancing security by preventing unauthorized access to the <br/> system from external sources. <br/><br/>
   <img src="Screenshot 2025-04-30 164239.png" height="80%" width="80%" alt="Step 11"/>
   <br/>
 </p>
