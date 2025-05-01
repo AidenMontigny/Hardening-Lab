@@ -173,20 +173,20 @@ This indicates the successful download of ClamWIN, a free and open-source antivi
 </p>
 
 <p align="left">
-This  <br/><br/>
-  <img src="Screenshot 2025-04-30 164.png" height="80%" width="80%" alt="Step 24"/>
+This demonstrates the initiation of the download process for ClamWIN, marking the beginning of the installation to bolster the system's antivirus protection. <br/><br/>
+  <img src="Screenshot 2025-04-30 164349.png" height="80%" width="80%" alt="Step 24"/>
   <br/>
 </p>
 
 <p align="left">
-This  <br/><br/>
-  <img src="Screenshot 2025-04-30 164.png" height="80%" width="80%" alt="Step 24"/>
+This indicates the completion of the ClamWIN download process, signaling that the software is now ready for installation and setup to enhance the system's security. <br/><br/>
+  <img src="Screenshot 2025-04-30 164353.png" height="80%" width="80%" alt="Step 24"/>
   <br/>
 </p>
 
 <p align="left">
-This  <br/><br/>
-  <img src="Screenshot 2025-04-30 164.png" height="80%" width="80%" alt="Step 24"/>
+This shows that the ClamWIN antivirus scan is actively running, scanning the system for potential threats and malware. <br/><br/>
+  <img src="Screenshot 2025-04-30 164359.png" height="80%" width="80%" alt="Step 24"/>
   <br/>
 </p>
 
