@@ -27,7 +27,7 @@ The Hardening Lab project focuses on securing a Kali Linux VM and a Windows envi
 <h3> Part 1 </h3>
 
 <p align="left">
-The command apt update && apt full-upgrade -y was executed on the Kali VM to automatically <br/> update and upgrade all installed applications to their latest versions. This ensures that the system is up to date with the most recent patches and security improvements. <br/><br/>
+The command apt update && apt full-upgrade -y was executed on the Kali VM to automatically <br/> update and upgrade all installed applications to their latest versions. <br/>This ensures that the system is up to date with the most recent patches and security improvements. <br/><br/>
   <img src="Screenshot 2025-04-30 164137.png" height="80%" width="80%" alt="Step 1"/>
   <br/>
 </p>
