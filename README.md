@@ -95,97 +95,97 @@ All incoming traffic is blocked, enhancing security by preventing unauthorized a
 </p>
 
 <p align="left">
-The listening command on all ports is displayed, providing visibility into the open ports and active network connections on the system. <br/><br/>
+The listening command on all ports is displayed, providing visibility into the open ports and <br/> active network connections on the system. <br/><br/>
   <img src="Screenshot 2025-04-30 164244.png" height="80%" width="80%" alt="Step 12"/>
   <br/>
 </p>
 
 <p align="left">
-The new inbound rules for specific local ports are configured, effectively restricting access to all other ports and enhancing security by limiting network traffic to authorized connections only. <br/><br/>
+The new inbound rules for specific local ports are configured, effectively restricting access <br/>  to all other ports and enhancing security by limiting network traffic to authorized <br/> connections only. <br/><br/>
   <img src="Screenshot 2025-04-30 164250.png" height="80%" width="80%" alt="Step 13"/>
   <br/>
 </p>
 
 <p align="left">
-The 'NetBIOS over TCP/IP' feature has been successfully disabled to reduce the attack surface and prevent unnecessary network protocols from being exposed. <br/><br/>
+The 'NetBIOS over TCP/IP' feature has been successfully disabled to reduce the attack surface <br/> and prevent unnecessary network protocols from being exposed. <br/><br/>
   <img src="Screenshot 2025-04-30 164254.png" height="80%" width="80%" alt="Step 14"/>
   <br/>
 </p>
 
 <p align="left">
-This confirms that the 'NetBIOS over TCP/IP' feature was successfully disabled, ensuring enhanced network security by preventing the use of legacy protocols. <br/><br/>
+This confirms that the 'NetBIOS over TCP/IP' feature was successfully disabled, ensuring enhanced <br/> network security by preventing the use of legacy protocols. <br/><br/>
   <img src="Screenshot 2025-04-30 164259.png" height="80%" width="80%" alt="Step 15"/>
   <br/>
 </p>
 
 <p align="left">
-This demonstrates the verification of Windows Defender settings, ensuring that the system's antivirus protection is properly configured and operational. <br/><br/>
+This demonstrates the verification of Windows Defender settings, ensuring that the system's <br/> antivirus protection is properly configured and operational. <br/><br/>
   <img src="Screenshot 2025-04-30 164304.png" height="80%" width="80%" alt="Step 16"/>
   <br/>
 </p>
 
 <p align="left">
-This indicates that the system is free of any detected threats, ensuring that the virtual machine remains secure and protected. <br/><br/>
+This indicates that the system is free of any detected threats, ensuring that the virtual machine <br/> remains secure and protected. <br/><br/>
   <img src="Screenshot 2025-04-30 164310.png" height="80%" width="80%" alt="Step 17"/>
   <br/>
 </p>
 
 <p align="left">
-This confirms that the security setting "Do not store LAN Manager hash value on next password change" has been enabled, enhancing password security by preventing the storage of outdated and less secure hash values. <br/><br/>
+This confirms that the security setting "Do not store LAN Manager hash value on next password <br/> change" has been enabled, enhancing password security by preventing the storage of outdated <br/> and less secure hash values. <br/><br/>
   <img src="Screenshot 2025-04-30 164315.png" height="80%" width="80%" alt="Step 18"/>
   <br/>
 </p>
 
 <p align="left">
-This demonstrates that the "Lan Manager" authentication protocol has been successfully upgraded to "NTLMv2" and that "LM" and "NTLM" protocols have been disabled, thereby strengthening security by enforcing more secure authentication methods. <br/><br/>
+This demonstrates that the "Lan Manager" authentication protocol has been successfully upgraded <br/> to "NTLMv2" and that "LM" and "NTLM" protocols have been disabled, thereby strengthening security <br/> by enforcing more secure authentication methods. <br/><br/>
   <img src="Screenshot 2025-04-30 164321.png" height="80%" width="80%" alt="Step 19"/>
   <br/>
 </p>
 
 <p align="left">
-This indicates that the "File and Print Sharing" feature has been removed from the network settings, reducing potential attack vectors by disabling unnecessary services. <br/><br/>
+This indicates that the "File and Print Sharing" feature has been removed from the network settings,<br/> reducing potential attack vectors by disabling unnecessary services. <br/><br/>
   <img src="Screenshot 2025-04-30 164325.png" height="80%" width="80%" alt="Step 20"/>
   <br/>
 </p>
 
 <p align="left">
-This demonstrates the disabling of an unnecessary service, specifically the 'Print Spooler,' which is not required for the system’s operations and helps minimize the potential attack surface by removing unused services. <br/><br/>
+This demonstrates the disabling of an unnecessary service, specifically the 'Print Spooler,' which is <br/> not required for the system’s operations and helps minimize the potential attack surface by <br/> removing unused services. <br/><br/>
   <img src="Screenshot 2025-04-30 164330.png" height="80%" width="80%" alt="Step 21"/>
   <br/>
 </p>
 
 <p align="left">
-This shows the removal of the 'XPS Viewer,' a feature that is not necessary for the system, further enhancing the security posture by eliminating unused software. <br/><br/>
+This shows the removal of the 'XPS Viewer,' a feature that is not necessary for the system, further <br/> enhancing the security posture by eliminating unused software. <br/><br/>
   <img src="Screenshot 2025-04-30 164335.png" height="80%" width="80%" alt="Step 22"/>
   <br/>
 </p>
 
 <p align="left">
-This demonstrates the successful removal of an unnecessary feature, contributing to the optimization and security of the system by eliminating non-essential components. <br/><br/>
+This demonstrates the successful removal of an unnecessary feature, contributing to the optimization <br/> and security of the system by eliminating non-essential components. <br/><br/>
   <img src="Screenshot 2025-04-30 164339.png" height="80%" width="80%" alt="Step 23"/>
   <br/>
 </p>
 
 <p align="left">
-This indicates the successful download of ClamWIN, a free and open-source antivirus tool, to enhance the system's security measures. <br/><br/>
+This indicates the successful download of ClamWIN, a free and open-source antivirus tool, to enhance <br/> the system's security measures. <br/><br/>
   <img src="Screenshot 2025-04-30 164344.png" height="80%" width="80%" alt="Step 24"/>
   <br/>
 </p>
 
 <p align="left">
-This demonstrates the initiation of the download process for ClamWIN, marking the beginning of the installation to bolster the system's antivirus protection. <br/><br/>
+This demonstrates the initiation of the download process for ClamWIN, marking the beginning of the <br/> installation to bolster the system's antivirus protection. <br/><br/>
   <img src="Screenshot 2025-04-30 164349.png" height="80%" width="80%" alt="Step 24"/>
   <br/>
 </p>
 
 <p align="left">
-This indicates the completion of the ClamWIN download process, signaling that the software is now ready for installation and setup to enhance the system's security. <br/><br/>
+This indicates the completion of the ClamWIN download process, signaling that the software is now ready <br/> for installation and setup to enhance the system's security. <br/><br/>
   <img src="Screenshot 2025-04-30 164353.png" height="80%" width="80%" alt="Step 24"/>
   <br/>
 </p>
 
 <p align="left">
-This shows that the ClamWIN antivirus scan is actively running, scanning the system for potential threats and malware. <br/><br/>
+This shows that the ClamWIN antivirus scan is actively running, scanning the system for potential threats <br/> and malware. <br/><br/>
   <img src="Screenshot 2025-04-30 164359.png" height="80%" width="80%" alt="Step 24"/>
   <br/>
 </p>
