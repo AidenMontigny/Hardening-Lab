@@ -47,7 +47,7 @@ The Lynis scan on the Kali VM revealed no vulnerabilities, indicating that the s
 <h3> Part 2 </h3>
 
 <p align="left">
-The 'Recovery Console: Automatic Administrative Logon' prompt has been disabled to enhance system <br/> security and prevent unauthorized access during the recovery process. <br/><br/>
+The 'Recovery Console: Automatic Administrative Logon' prompt has been disabled to enhance <br/> system  security and prevent unauthorized access during the recovery process. <br/><br/>
   <img src="Screenshot 2025-04-30 164203.png" height="80%" width="80%" alt="Step 4"/>
   <br/>
 </p>
